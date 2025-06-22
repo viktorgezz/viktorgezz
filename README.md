@@ -8,17 +8,6 @@
  - note-hub (the note system)
  - fallingObjectGame (a simple and addictive android-game)
 
-  +----------+
-  
-  |   ☕     |
-  
-  | class X{ |
-  
-  |  main()  |
-  
-  | }        |
-  
-  +----------+
 
 
 
